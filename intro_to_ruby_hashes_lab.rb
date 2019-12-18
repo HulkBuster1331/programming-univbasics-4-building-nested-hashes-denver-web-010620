@@ -9,9 +9,9 @@ def base_hash
   # keyword "return." Nice and neat.
 end
 
-def monopoly_with_second_tier
+def monopoly_with_second_tier{
   railroads: peices
-  
+}
   
   
   # When you start writing the implementation for this method, copy the Hash
